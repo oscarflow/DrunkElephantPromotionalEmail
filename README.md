@@ -1,3 +1,9 @@
 # DrunkElephantPromotionalEmail
+This email is for a promotional campaign offered by Drunk Elephant offering customers  15% off  
+## Features
 
-This repository contains a single HTML file (`index.html`) that represents a table‑based, marketing email for **Drunk Elephant**. The template includes brand header, promotional copy (welcome + 15% off), product category CTAs (Skincare, Hair Care, Body Care), universal offer messaging (free sample + free shipping), social links, footer with legal and preference links, and standard unsubscribe/open‑in‑browser options.
+- **Compliance Helpers**: CAN-SPAM footer, unsubscribe link, link tracking opt-out.
+- **Accessibility**: WCAG AA-aligned HTML and plaintext alternatives.
+- **Responsive Design**: Mobile-friendly layout tested across major email clients.
+
+
